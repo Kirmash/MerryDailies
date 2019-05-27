@@ -1,0 +1,28 @@
+var class_smart_localization_1_1_language_manager =
+[
+    [ "ChangeLanguage", "class_smart_localization_1_1_language_manager.html#a417621fc917402e5086222d308df58d1", null ],
+    [ "ChangeLanguage", "class_smart_localization_1_1_language_manager.html#a776b68eb094a0f1c2b2502a8662e1464", null ],
+    [ "GetAudioClip", "class_smart_localization_1_1_language_manager.html#a6cbd9fa2debe05e34f6cedfab4a2477b", null ],
+    [ "GetCultureInfo", "class_smart_localization_1_1_language_manager.html#aa2ce2eed6904d2a69c5ea33d088624c2", null ],
+    [ "GetPrefab", "class_smart_localization_1_1_language_manager.html#a15658abaf8f939a6d970b67503f9db16", null ],
+    [ "GetSupportedLanguages", "class_smart_localization_1_1_language_manager.html#aaa45b823daf508d5436794b11d0c34ce", null ],
+    [ "GetSupportedSystemLanguage", "class_smart_localization_1_1_language_manager.html#a8aab92cfe0d7cb4f5badb0380a45aeca", null ],
+    [ "GetSupportedSystemLanguageCode", "class_smart_localization_1_1_language_manager.html#a0d6a11ad2864c93e8b5be6988cc93916", null ],
+    [ "GetSystemLanguageEnglishName", "class_smart_localization_1_1_language_manager.html#ae59bffde7bd12d07f4bff5c727306906", null ],
+    [ "GetTexture", "class_smart_localization_1_1_language_manager.html#a89670d55013835e857642ad6bf77793c", null ],
+    [ "GetTextValue", "class_smart_localization_1_1_language_manager.html#a3e86db00240348f7efe8a5fc4bd33b11", null ],
+    [ "HasKey", "class_smart_localization_1_1_language_manager.html#a3df527177ecd45fb97103cbfe1599a35", null ],
+    [ "IsLanguageSupported", "class_smart_localization_1_1_language_manager.html#a25a16c119e044e204e6737d3508b7cd4", null ],
+    [ "IsLanguageSupported", "class_smart_localization_1_1_language_manager.html#a9e7d3cc7672ce54a10f143aee63058bc", null ],
+    [ "IsLanguageSupportedEnglishName", "class_smart_localization_1_1_language_manager.html#a59ec1cda84e06e5216e76374ff17a5d9", null ],
+    [ "SetDontDestroyOnLoad", "class_smart_localization_1_1_language_manager.html#ad960498e8862ec3e54e98435f856f882", null ],
+    [ "defaultLanguage", "class_smart_localization_1_1_language_manager.html#ac0b8d2d1530ac8066eb9f11c7ee711de", null ],
+    [ "OnChangeLanguage", "class_smart_localization_1_1_language_manager.html#a73b2faa170698e77831d8efb778761d7", null ],
+    [ "HasInstance", "class_smart_localization_1_1_language_manager.html#a6410aaa7fca60f58dcbd96e6fc36b5f3", null ],
+    [ "Instance", "class_smart_localization_1_1_language_manager.html#a61743d11c90bce0ba47272fc4b0c6d6a", null ],
+    [ "LanguageDatabase", "class_smart_localization_1_1_language_manager.html#a3aee64ac25270e9d23f66d37cf3975cc", null ],
+    [ "LoadedLanguage", "class_smart_localization_1_1_language_manager.html#a508f24bc3a9ebc3079f0603ce963d2ab", null ],
+    [ "NumberOfSupportedLanguages", "class_smart_localization_1_1_language_manager.html#ae3647009233cec178defb6be93af48ce", null ],
+    [ "RawTextDatabase", "class_smart_localization_1_1_language_manager.html#a1db4ebceced81465ac0e7fba9d27d3bf", null ],
+    [ "VerboseLogging", "class_smart_localization_1_1_language_manager.html#a089a01a0cbeb22de72790d27fc334768", null ]
+];

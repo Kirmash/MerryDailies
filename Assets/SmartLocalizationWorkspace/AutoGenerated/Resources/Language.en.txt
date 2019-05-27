@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="Appreciation of Beauty and Excellence" xml:space="preserve">
+		<value>Appreciation of Beauty and Excellence</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_1" xml:space="preserve">
+		<value>Notice at least one instance of natural beauty around you (sunrise, sunset, clouds, sunshine, snowfall, rainbows, etc).</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_10" xml:space="preserve">
+		<value>Make one thing to improve your surroundings to be aesthetically beautiful.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_11" xml:space="preserve">
+		<value>Listen a piece of music or a watch a film and evaluate how it touches you aesthetically.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_12" xml:space="preserve">
+		<value>Go to real or virtual museum, pick a piece of art, and consider how it touches you aesthetically.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_13" xml:space="preserve">
+		<value>Write your aesthetic and/or artistic reactions to another person's artistic expression.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_14" xml:space="preserve">
+		<value>Simply appreciate a beautiful piece of architecture, dress, sculpture, pottery, poetry, prose, etc.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_15" xml:space="preserve">
+		<value>Explore expression of beauty in different culture.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_16" xml:space="preserve">
+		<value>Observe the birds or other createrus in yoour surroundings.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_17" xml:space="preserve">
+		<value>Find out which international holiday is today. Make a decoration celebrating this holiday.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_18" xml:space="preserve">
+		<value>Find a photo that employs strong emotions in you. Reflect on why is that so.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_19" xml:space="preserve">
+		<value>Take mental pictures of art that you happen to meet throughout the day and note how they affect your everyday life.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_2" xml:space="preserve">
+		<value>Take pictures of natural scenes or your loved ones.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_20" xml:space="preserve">
+		<value>Note and write down how the goodness of other people affects your life.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_3" xml:space="preserve">
+		<value>Think of something that contains beauty, love and connection.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_4" xml:space="preserve">
+		<value>Change the desktop background of PC or phone to something that sparks strong emotions in you.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_5" xml:space="preserve">
+		<value>Find out which local exhibits of clothes, cultural artifacts, art etc are happening in the vicinity. Plan to visit one.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_6" xml:space="preserve">
+		<value>Search, experience and reflect on the excellence, beauty, and joy expressed through colors, sounds, flavors, images, ideas, aromas, sensations or words.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_7" xml:space="preserve">
+		<value>Notice and reflect on how others appreciate beauty and excellence through specific words, expressions, gestures, and actions.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_8" xml:space="preserve">
+		<value>Notice, admire and reflect on excellence of someone's character strengths.</value>
+	</data>
+	<data name="Appreciation of Beauty and Excellence_9" xml:space="preserve">
+		<value>Find and appreciate the subtle difference of today's weather versus yesterday.</value>
+	</data>
+	<data name="Bravery" xml:space="preserve">
+		<value>Bravery</value>
+	</data>
+	<data name="Bravery_1" xml:space="preserve">
+		<value>Reflect on the possibility or occurence of resisting social or peer pressure for noble values and causes in meaningful ways.</value>
+	</data>
+	<data name="Bravery_10" xml:space="preserve">
+		<value>Speak up for or write about an unpopular idea.</value>
+	</data>
+	<data name="Bravery_11" xml:space="preserve">
+		<value>Select a meaningful social change. Take small, practical step to bring it closer.</value>
+	</data>
+	<data name="Bravery_12" xml:space="preserve">
+		<value>Notice and, if occurring, find a way to fix an injustice, abuse, blatant unethical practice, etc happening in your area.</value>
+	</data>
+	<data name="Bravery_2" xml:space="preserve">
+		<value>Think how you can stand up for someone (such as a younger sibling or a battered woman) who will not otherwise stand up for themself. Act if possible.</value>
+	</data>
+	<data name="Bravery_3" xml:space="preserve">
+		<value>Ask at least one difficult question that help you and others face reality.</value>
+	</data>
+	<data name="Bravery_4" xml:space="preserve">
+		<value>Clarify your values by thinking about how best they have served you in challenging situations.</value>
+	</data>
+	<data name="Bravery_5" xml:space="preserve">
+		<value>Reflect on a time where you was able to act successfully despite challenges. How can you ensure to do the same in the future?</value>
+	</data>
+	<data name="Bravery_6" xml:space="preserve">
+		<value>Identify an area in which you generally shy away from confrontations. Practice the phrases, the tones, and the mannerisms that will enable you to effectively confront the situation next time.</value>
+	</data>
+	<data name="Bravery_7" xml:space="preserve">
+		<value>Update your collection of contemporary stories of bravery in everyday life situations.</value>
+	</data>
+	<data name="Bravery_8" xml:space="preserve">
+		<value>Reflect how can you be different but still positive. Act in such way when possible.</value>
+	</data>
+	<data name="Bravery_9" xml:space="preserve">
+		<value>Think on where and how can you find more different but positive friends in your life.</value>
+	</data>
+	<data name="Creativity" xml:space="preserve">
+		<value>Creativity</value>
+	</data>
+	<data name="Creativity_1" xml:space="preserve">
+		<value>Pick an idea in the area of your interest. Think how can you refine it. Do it, if possible.</value>
+	</data>
+	<data name="Creativity_10" xml:space="preserve">
+		<value>Do at least one current assignment in a manner different from the expected.</value>
+	</data>
+	<data name="Creativity_11" xml:space="preserve">
+		<value>Write an article, essay, short story, poem, draw or paint in relation to your passion.</value>
+	</data>
+	<data name="Creativity_12" xml:space="preserve">
+		<value>Offer one creative solution to challenges of a sibling or a friend.</value>
+	</data>
+	<data name="Creativity_13" xml:space="preserve">
+		<value>Design a personalized card for a friend.</value>
+	</data>
+	<data name="Creativity_2" xml:space="preserve">
+		<value>Compile an original and practical list of tips that will address common challenges faced by you and your peers.</value>
+	</data>
+	<data name="Creativity_3" xml:space="preserve">
+		<value>Look for different and creative ways to spend more time at tasks you do best.</value>
+	</data>
+	<data name="Creativity_4" xml:space="preserve">
+		<value>Brain-storm ideas on a challenging task with your friends.</value>
+	</data>
+	<data name="Creativity_5" xml:space="preserve">
+		<value>Redesign at least part of your room or home.</value>
+	</data>
+	<data name="Creativity_6" xml:space="preserve">
+		<value>Take a lesson in creativity, painting or other art form.</value>
+	</data>
+	<data name="Creativity_7" xml:space="preserve">
+		<value>Learn about an exotic and creative art such as Feng-shui or Ikebana.</value>
+	</data>
+	<data name="Creativity_8" xml:space="preserve">
+		<value>Read about famous creative people and identify what made them unique.</value>
+	</data>
+	<data name="Creativity_9" xml:space="preserve">
+		<value>Use leftovers (food, stationary and such) or unused items to make new products.</value>
+	</data>
+	<data name="Curiosity" xml:space="preserve">
+		<value>Curiosity</value>
+	</data>
+	<data name="Curiosity_1" xml:space="preserve">
+		<value>Pick an area of your interest. Expand your knowledge in the area through books, magazines, internet etc.</value>
+	</data>
+	<data name="Curiosity_10" xml:space="preserve">
+		<value>Attend a function, lecture or colloquium or read an article about a culture that differs from yours.</value>
+	</data>
+	<data name="Curiosity_2" xml:space="preserve">
+		<value>Find a person who shares your area of your interest and learn how he/she increases his/her expertise in that area.</value>
+	</data>
+	<data name="Curiosity_3" xml:space="preserve">
+		<value>Eat food of a different culture, explore its cultural context and become aware of your thoughts.</value>
+	</data>
+	<data name="Curiosity_4" xml:space="preserve">
+		<value>Connect with a person of a different culture and spend time to learn about his/her culture.</value>
+	</data>
+	<data name="Curiosity_5" xml:space="preserve">
+		<value>Make a list of unknowns about your favorite topic.</value>
+	</data>
+	<data name="Curiosity_6" xml:space="preserve">
+		<value>Find ways to challenge your existing knowledge and skills. Act, if possible.</value>
+	</data>
+	<data name="Curiosity_7" xml:space="preserve">
+		<value>Identify factors which might have diminished your curiosity in an area and search ways to rejuvenate it.</value>
+	</data>
+	<data name="Curiosity_8" xml:space="preserve">
+		<value>Get engaged in an unexpected learning experience (learn about ice-cream making, physics of yoga etc).</value>
+	</data>
+	<data name="Curiosity_9" xml:space="preserve">
+		<value>Explore processes of nature by being in the woods, park, stream, yard, etc.</value>
+	</data>
+	<data name="Fairness, Equity and Justice" xml:space="preserve">
+		<value>Fairness, Equity and Justice</value>
+	</data>
+	<data name="Fairness, Equity and Justice_1" xml:space="preserve">
+		<value>Reflect on times when you've made a mistake and didn't admit it. Why?</value>
+	</data>
+	<data name="Fairness, Equity and Justice_10" xml:space="preserve">
+		<value>Reflect on time when in argument you or anyone else compromised fairness for social desirability. How can youy prevent that?</value>
+	</data>
+	<data name="Fairness, Equity and Justice_11" xml:space="preserve">
+		<value>Think of a ways to encourage equal participation of everyone, especially those who feel left out in a discussion or activity.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_12" xml:space="preserve">
+		<value>Reflect whether your judgments are affected by your personal likes and dislikes or are based on principles of justice and fairness.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_13" xml:space="preserve">
+		<value>Recall and write about instances where you were unfair or could have been fairer. Consider how you could improve your future behavior.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_14" xml:space="preserve">
+		<value>Reflet if you think about or treat people of other ethnicities and cultures stereotypically.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_2" xml:space="preserve">
+		<value>Look for an organization that offers unprivileged people a leveling playing field. Find ways to help them.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_3" xml:space="preserve">
+		<value>Write a letter or speak up on an important issue concerning social justice.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_4" xml:space="preserve">
+		<value>Plan the discussion with a friend whom you notice shows gender or ethnic bias.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_5" xml:space="preserve">
+		<value>Volunteer or learn about an organization which educates and campaigns for equal human rights.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_6" xml:space="preserve">
+		<value>Explore an ongoing event anywhere in the world where human rights are being violated and write your reactions and suggestions to promote social justice on that issue.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_7" xml:space="preserve">
+		<value>Watch a film or a documentary which exemplifies fairness, social justice, and equity.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_8" xml:space="preserve">
+		<value>Read biographies (even excerpts) of famous people who exemplify social justice such as Gandhi, Martin Luther King, and Nelson Mandela.</value>
+	</data>
+	<data name="Fairness, Equity and Justice_9" xml:space="preserve">
+		<value>Reflect on a ways how can you speak out for your group or team. </value>
+	</data>
+	<data name="Forgiveness" xml:space="preserve">
+		<value>Forgiveness</value>
+	</data>
+	<data name="Forgiveness_1" xml:space="preserve">
+		<value>Remember times when you offended someone and were forgiven. Reflect on this experience.</value>
+	</data>
+	<data name="Forgiveness_10" xml:space="preserve">
+		<value>Evaluate your emotions before and after forgiving someone.</value>
+	</data>
+	<data name="Forgiveness_2" xml:space="preserve">
+		<value>Reflect on the recent offence you've experienced. Look at the situation with offender's eyes. What changed?</value>
+	</data>
+	<data name="Forgiveness_3" xml:space="preserve">
+		<value>Make a list of individuals against whom you hold a grudge. Think of ways to reduce this list.</value>
+	</data>
+	<data name="Forgiveness_4" xml:space="preserve">
+		<value>Remember a person who offended you in the past. Tell them (even indirectly) that you have forgiven them.</value>
+	</data>
+	<data name="Forgiveness_5" xml:space="preserve">
+		<value>Ask for forgiveness from a Divine power according to your faith and assess how you feel afterwards.</value>
+	</data>
+	<data name="Forgiveness_6" xml:space="preserve">
+		<value>Remember the person that you have negative thoughts about. Redirect love towards this person and forgive them.</value>
+	</data>
+	<data name="Forgiveness_7" xml:space="preserve">
+		<value>Identify how a grudge tortures you emotionally. Reflect on ways these disruptive emotions affect your behavior.</value>
+	</data>
+	<data name="Forgiveness_8" xml:space="preserve">
+		<value>Plan out what your response should be the next time someone offends you.</value>
+	</data>
+	<data name="Forgiveness_9" xml:space="preserve">
+		<value>If you have any payback fantasies for the offence — reflect on how those will hurt you.</value>
+	</data>
+	<data name="Gratitude" xml:space="preserve">
+		<value>Gratitude</value>
+	</data>
+	<data name="Gratitude_1" xml:space="preserve">
+		<value>Still your mind for five minutes in the morning and in the evening.</value>
+	</data>
+	<data name="Gratitude_10" xml:space="preserve">
+		<value>Count three your blessings (good things that happened to you) before going to bed.</value>
+	</data>
+	<data name="Gratitude_11" xml:space="preserve">
+		<value>Express your gratitude to someone whom haven't told before.</value>
+	</data>
+	<data name="Gratitude_12" xml:space="preserve">
+		<value>Pick one small yet important thing that you take for granted. Be mindful of this thing today.</value>
+	</data>
+	<data name="Gratitude_13" xml:space="preserve">
+		<value>Notice how many times you say thanks and whether you mean it every time.</value>
+	</data>
+	<data name="Gratitude_14" xml:space="preserve">
+		<value>Express gratitude for someone who has helped your intellectual growth (e.g., a high school teacher).</value>
+	</data>
+	<data name="Gratitude_15" xml:space="preserve">
+		<value>Express thanks to people who contributed to your success, no matter how small their contribution might have been.</value>
+	</data>
+	<data name="Gratitude_16" xml:space="preserve">
+		<value>Express thanks without just saying “thanks” — be more descriptive and specific (e.g., “I appreciate your prudent advice”).</value>
+	</data>
+	<data name="Gratitude_2" xml:space="preserve">
+		<value>Before you go to bed, write three good things that happened to you and why.</value>
+	</data>
+	<data name="Gratitude_3" xml:space="preserve">
+		<value>Set aside at least ten minutes to savor a pleasant experience. Decide to withhold any conscious decisions during these ten minutes.</value>
+	</data>
+	<data name="Gratitude_4" xml:space="preserve">
+		<value>Reflect on any event that brought your community closer.</value>
+	</data>
+	<data name="Gratitude_5" xml:space="preserve">
+		<value>Express gratitude to public officials such as police officers, fire fighters, and postal workers.</value>
+	</data>
+	<data name="Gratitude_6" xml:space="preserve">
+		<value>Before eating, think of all people who have contributed to what you are eating. </value>
+	</data>
+	<data name="Gratitude_7" xml:space="preserve">
+		<value>Talk with your loved ones about two good things that happened to them during the day.</value>
+	</data>
+	<data name="Gratitude_8" xml:space="preserve">
+		<value>Think of three past adversities and identify three serendipitous goods they led to.</value>
+	</data>
+	<data name="Gratitude_9" xml:space="preserve">
+		<value>Reminisce about your best moments of recognition, achievement, praise, and connection.</value>
+	</data>
+	<data name="Honesty" xml:space="preserve">
+		<value>Honesty</value>
+	</data>
+	<data name="Honesty_1" xml:space="preserve">
+		<value>Reflect on a time you've told the white lie to family or friends. Why did you have the need to do that? How can you avoid that?</value>
+	</data>
+	<data name="Honesty_10" xml:space="preserve">
+		<value>Think of creative yet honest ways of relating to others.</value>
+	</data>
+	<data name="Honesty_11" xml:space="preserve">
+		<value>Monitor for a day every time you tell a lie, even if it is a small one.</value>
+	</data>
+	<data name="Honesty_2" xml:space="preserve">
+		<value>Monitor for a day to catch lies of omission (such as not volunteering important information when selling a used item) and think how would you feel if someone did the same to you.</value>
+	</data>
+	<data name="Honesty_3" xml:space="preserve">
+		<value>Rate your satisfaction with authentic, honest, and genuine deeds vs. inauthentic and less then honest actions today.</value>
+	</data>
+	<data name="Honesty_4" xml:space="preserve">
+		<value>Monitor for today whether your significant actions match your words and vice-versa.</value>
+	</data>
+	<data name="Honesty_5" xml:space="preserve">
+		<value>Reflect on issues about which you feel moral obligation. Act on those if possible.</value>
+	</data>
+	<data name="Honesty_6" xml:space="preserve">
+		<value>Think about the upcoming challenges — how can you act fairly while meeting it?</value>
+	</data>
+	<data name="Honesty_7" xml:space="preserve">
+		<value>Identify your area of strongest moral convictions. Check your priorities according to your convictions.</value>
+	</data>
+	<data name="Honesty_8" xml:space="preserve">
+		<value>Reflect on your current role. Does it allow you to be authentic and honest? How can you change that?</value>
+	</data>
+	<data name="Honesty_9" xml:space="preserve">
+		<value>Learn and practice the ethical standards of your profession.</value>
+	</data>
+	<data name="Hope" xml:space="preserve">
+		<value>Hope</value>
+	</data>
+	<data name="Hope_1" xml:space="preserve">
+		<value>Recall a situation when you or someone close to you overcame a difficult obstacle and succeeded.</value>
+	</data>
+	<data name="Hope_10" xml:space="preserve">
+		<value>List some bad things that happened to you recently, then find at least two positive for each.</value>
+	</data>
+	<data name="Hope_11" xml:space="preserve">
+		<value>Visualize or check on your vision of yourself after one, five and ten years. Sketch/refine a pathway to get there.</value>
+	</data>
+	<data name="Hope_12" xml:space="preserve">
+		<value>Record your negative and positive thoughts today and reflect how they affect your future performance.</value>
+	</data>
+	<data name="Hope_2" xml:space="preserve">
+		<value>Read or reflect on someone who succeeded despite difficulties and setbacks.</value>
+	</data>
+	<data name="Hope_3" xml:space="preserve">
+		<value>Recall bad decisions you made recently, forgive yourself, and see how you can make better decisions in the future.</value>
+	</data>
+	<data name="Hope_4" xml:space="preserve">
+		<value>Reflect on how you overcame an adversity in the past.</value>
+	</data>
+	<data name="Hope_5" xml:space="preserve">
+		<value>Mentally rehearse your next anticipated challenge.</value>
+	</data>
+	<data name="Hope_6" xml:space="preserve">
+		<value>For the next three challenging tasks, identify what would work best for you.</value>
+	</data>
+	<data name="Hope_7" xml:space="preserve">
+		<value>Document past three accomplishments in detail and find ways to use them in future.</value>
+	</data>
+	<data name="Hope_8" xml:space="preserve">
+		<value>Contact the most optimistic friend of yours and have a profound conversation.</value>
+	</data>
+	<data name="Hope_9" xml:space="preserve">
+		<value>Spend at least fifteen minutes generating optimistic ideas. Write them down and list actions you can take to realize your ideas.</value>
+	</data>
+	<data name="Humility / Modesty" xml:space="preserve">
+		<value>Humility / Modesty</value>
+	</data>
+	<data name="Humility / Modesty_1" xml:space="preserve">
+		<value>Resist showing off accomplishments for today.</value>
+	</data>
+	<data name="Humility / Modesty_10" xml:space="preserve">
+		<value>At the end of the day, identify something you did to impress people or put on a show. Resolve not to do it again.</value>
+	</data>
+	<data name="Humility / Modesty_11" xml:space="preserve">
+		<value>Resist showing off if you notice that you are better than someone else.</value>
+	</data>
+	<data name="Humility / Modesty_2" xml:space="preserve">
+		<value>Resist showing off when others show off.</value>
+	</data>
+	<data name="Humility / Modesty_3" xml:space="preserve">
+		<value>Think of ways to empower equal conversation in group situations.</value>
+	</data>
+	<data name="Humility / Modesty_4" xml:space="preserve">
+		<value>Dress modestly.</value>
+	</data>
+	<data name="Humility / Modesty_5" xml:space="preserve">
+		<value>Compliment sincerely if you find someone is authentic and better than you in some ways.</value>
+	</data>
+	<data name="Humility / Modesty_6" xml:space="preserve">
+		<value>Think and act on ways to reduce the negative impact on environment.</value>
+	</data>
+	<data name="Humility / Modesty_7" xml:space="preserve">
+		<value>Reflect on the time you've made a mistake and didn't apologize. If you are up for it — do it today.</value>
+	</data>
+	<data name="Humility / Modesty_8" xml:space="preserve">
+		<value>Reflect on your sexual relationships. Think of ways you can commit to current ones better.</value>
+	</data>
+	<data name="Humility / Modesty_9" xml:space="preserve">
+		<value>Ask a trusted friend for honest feedback about your weaknesses.</value>
+	</data>
+	<data name="Humor" xml:space="preserve">
+		<value>Humor</value>
+	</data>
+	<data name="Humor_1" xml:space="preserve">
+		<value>Bring smile to someone's face today through jokes, gestures, and playful activities.</value>
+	</data>
+	<data name="Humor_10" xml:space="preserve">
+		<value>Learn or create a new joke and tell it to friends.</value>
+	</data>
+	<data name="Humor_11" xml:space="preserve">
+		<value>Watch a sitcom, funny show/movie, or read a comic you love.</value>
+	</data>
+	<data name="Humor_12" xml:space="preserve">
+		<value>Cheer up a friend.</value>
+	</data>
+	<data name="Humor_13" xml:space="preserve">
+		<value>Reflect on the gloomy situation you was it. How can you bring more fun to it in the future?</value>
+	</data>
+	<data name="Humor_14" xml:space="preserve">
+		<value>Speak with friend that has great sense of humor.</value>
+	</data>
+	<data name="Humor_15" xml:space="preserve">
+		<value>Impersonate someone and share this with someone close to you.</value>
+	</data>
+	<data name="Humor_2" xml:space="preserve">
+		<value>Plan any activity with your friends in the near future.</value>
+	</data>
+	<data name="Humor_3" xml:space="preserve">
+		<value>Reflect on the previous activities with friends. How can you make them even more fun?</value>
+	</data>
+	<data name="Humor_4" xml:space="preserve">
+		<value>Send funny message to your friend.</value>
+	</data>
+	<data name="Humor_5" xml:space="preserve">
+		<value>Cheer up a friend.</value>
+	</data>
+	<data name="Humor_6" xml:space="preserve">
+		<value>Find a way to express playful behavior today.</value>
+	</data>
+	<data name="Humor_7" xml:space="preserve">
+		<value>Plan the outdoor activity with your loved ones or friends.</value>
+	</data>
+	<data name="Humor_8" xml:space="preserve">
+		<value>Plan an indoor activiy with your friends or loved ones</value>
+	</data>
+	<data name="Humor_9" xml:space="preserve">
+		<value>Speak with friend that has great sense of humor.</value>
+	</data>
+	<data name="Judgement" xml:space="preserve">
+		<value>Judgement</value>
+	</data>
+	<data name="Judgement_1" xml:space="preserve">
+		<value>Identify reasons of your last actions that you are not happy with and brainstorm better alternative ideas for the future.</value>
+	</data>
+	<data name="Judgement_10" xml:space="preserve">
+		<value>Ask a trusted friend to critically appraise your judgment on your last significant actions.</value>
+	</data>
+	<data name="Judgement_11" xml:space="preserve">
+		<value>Play devil's advocate on an issue that you have strong opinions about.</value>
+	</data>
+	<data name="Judgement_12" xml:space="preserve">
+		<value>Practice the common themes that exist across races and religions on an important issue.</value>
+	</data>
+	<data name="Judgement_2" xml:space="preserve">
+		<value>Identify the last three actions for which you did not think your way through.</value>
+	</data>
+	<data name="Judgement_3" xml:space="preserve">
+		<value>Reflect on current important activity in your life and ask yourself: Why? When? And how?</value>
+	</data>
+	<data name="Judgement_4" xml:space="preserve">
+		<value>Look for or read about a multi-cultural event and critically evaluate your views afterwards.</value>
+	</data>
+	<data name="Judgement_5" xml:space="preserve">
+		<value>Identify causes of a perceived failure of an activity in the past. Are there any patterns? Take some time to think deeply about how can you improve.</value>
+	</data>
+	<data name="Judgement_6" xml:space="preserve">
+		<value>Write pros and cons of something important that you do now and reflect on those.</value>
+	</data>
+	<data name="Judgement_7" xml:space="preserve">
+		<value>Play devil's advocate on an issue that you have opinions about.</value>
+	</data>
+	<data name="Judgement_8" xml:space="preserve">
+		<value>Reflect on the ways you can imrpove your open-mindedness. Act on those if possible.</value>
+	</data>
+	<data name="Judgement_9" xml:space="preserve">
+		<value>Imagine the best and worst cases for your current or future endeavor and create realistic action plan. </value>
+	</data>
+	<data name="Kindness" xml:space="preserve">
+		<value>Kindness</value>
+	</data>
+	<data name="Kindness_1" xml:space="preserve">
+		<value>Do small act of kindness for someone you know.</value>
+	</data>
+	<data name="Kindness_10" xml:space="preserve">
+		<value>Plan one random act of kindness for someone you don't know.</value>
+	</data>
+	<data name="Kindness_11" xml:space="preserve">
+		<value>Find something material that you can donate. Plan for it.</value>
+	</data>
+	<data name="Kindness_12" xml:space="preserve">
+		<value>Reflect on the volunteering opportunities in your area and how can you help them.</value>
+	</data>
+	<data name="Kindness_13" xml:space="preserve">
+		<value>Plan a visit for someone in a nursing home or hospice.</value>
+	</data>
+	<data name="Kindness_14" xml:space="preserve">
+		<value>Donate to organization that you support.</value>
+	</data>
+	<data name="Kindness_15" xml:space="preserve">
+		<value>Plan a surprise for someone you know. </value>
+	</data>
+	<data name="Kindness_16" xml:space="preserve">
+		<value>Monitor today's conversations and try to say more kind words to others.</value>
+	</data>
+	<data name="Kindness_17" xml:space="preserve">
+		<value>Cook a nice dinner for your loved ones.</value>
+	</data>
+	<data name="Kindness_2" xml:space="preserve">
+		<value>Look for a way to share your belongings with others.</value>
+	</data>
+	<data name="Kindness_3" xml:space="preserve">
+		<value>Cheer up your friends, especially those in need.</value>
+	</data>
+	<data name="Kindness_4" xml:space="preserve">
+		<value>Look for a way to use your time to help others.</value>
+	</data>
+	<data name="Kindness_5" xml:space="preserve">
+		<value>Try to greet others with smile today.</value>
+	</data>
+	<data name="Kindness_6" xml:space="preserve">
+		<value>Pay more attention to your surroundings and help all in need, even in a small way.</value>
+	</data>
+	<data name="Kindness_7" xml:space="preserve">
+		<value>Look for sources of information about the kind actions or people.</value>
+	</data>
+	<data name="Kindness_8" xml:space="preserve">
+		<value>Look for a way to improve your local community.</value>
+	</data>
+	<data name="Kindness_9" xml:space="preserve">
+		<value>Reflect on the times you weren't able to help someone in need. Think how can you prevent that in future.</value>
+	</data>
+	<data name="Leadership" xml:space="preserve">
+		<value>Leadership</value>
+	</data>
+	<data name="Leadership_1" xml:space="preserve">
+		<value>Look for the way to lead an activity, assignment or project in future or reflect how can you improve it.</value>
+	</data>
+	<data name="Leadership_10" xml:space="preserve">
+		<value>Try to think how can you organize or improve the family event.</value>
+	</data>
+	<data name="Leadership_11" xml:space="preserve">
+		<value>Think how can you organize or improve an event at your work that involves your colleagues.</value>
+	</data>
+	<data name="Leadership_12" xml:space="preserve">
+		<value>Reflect on your skills and how can you mentor someone.</value>
+	</data>
+	<data name="Leadership_13" xml:space="preserve">
+		<value>Reflect on times that you could stand up for someone. How can you make sure for that to happen in future?</value>
+	</data>
+	<data name="Leadership_14" xml:space="preserve">
+		<value>Think on the ways how can you give others a chance to become leaders in the future.</value>
+	</data>
+	<data name="Leadership_2" xml:space="preserve">
+		<value>Read a biography and/or watch film of your favorite leader and evaluate how he/she inspires you in practical ways.</value>
+	</data>
+	<data name="Leadership_3" xml:space="preserve">
+		<value>Think or learn about ways of mediating arguments in the future.</value>
+	</data>
+	<data name="Leadership_4" xml:space="preserve">
+		<value>Look up the coaching opportunities in your community or city.</value>
+	</data>
+	<data name="Leadership_5" xml:space="preserve">
+		<value>Think if you can intitiate new or improve existing tradition for your family or friends.</value>
+	</data>
+	<data name="Leadership_6" xml:space="preserve">
+		<value>Think about the events that you can organize for your local community.</value>
+	</data>
+	<data name="Leadership_7" xml:space="preserve">
+		<value>Think about hosting a party or open house.</value>
+	</data>
+	<data name="Leadership_8" xml:space="preserve">
+		<value>Think about the opportunities to improve your workplace that you can organize.</value>
+	</data>
+	<data name="Leadership_9" xml:space="preserve">
+		<value>Think about the opportunities to improve your coworker's lives (may not be connected with the workplace).</value>
+	</data>
+	<data name="Love" xml:space="preserve">
+		<value>Love</value>
+	</data>
+	<data name="Love of learning" xml:space="preserve">
+		<value>Love of learning</value>
+	</data>
+	<data name="Love of learning_1" xml:space="preserve">
+		<value>Learn five new words, including their meaning and usage.</value>
+	</data>
+	<data name="Love of learning_10" xml:space="preserve">
+		<value>Visit a museum and reflect on new things learned.</value>
+	</data>
+	<data name="Love of learning_11" xml:space="preserve">
+		<value>Look for a non-fiction book on a topic you find absorbing and engaging.</value>
+	</data>
+	<data name="Love of learning_2" xml:space="preserve">
+		<value>Read and research about a topic of your interest. </value>
+	</data>
+	<data name="Love of learning_3" xml:space="preserve">
+		<value>Reflect on ideas which can advance the field of your interest and discuss them with someone.</value>
+	</data>
+	<data name="Love of learning_4" xml:space="preserve">
+		<value>Follow an ongoing global event through newspapers, TV or internet.</value>
+	</data>
+	<data name="Love of learning_5" xml:space="preserve">
+		<value>Plan to attend a new gallery/exhibition opening in your area.</value>
+	</data>
+	<data name="Love of learning_6" xml:space="preserve">
+		<value>Read through your favourite quotes collection. If you have none — start it today!</value>
+	</data>
+	<data name="Love of learning_7" xml:space="preserve">
+		<value>Think if you can arrange a teach-learn date with a friend to teach them something</value>
+	</data>
+	<data name="Love of learning_8" xml:space="preserve">
+		<value>Identify topics on which you can share your knowledge with your peers.</value>
+	</data>
+	<data name="Love of learning_9" xml:space="preserve">
+		<value>Research if there are seminars or workshops of your interest in the area.</value>
+	</data>
+	<data name="Love_1" xml:space="preserve">
+		<value>Express (verbally and/or non-verbally) to your loved ones that no matter what happens, your love for them will remain unconditional.</value>
+	</data>
+	<data name="Love_10" xml:space="preserve">
+		<value>Express your love through physical gestures (hugs, kisses, cuddling, giving a gentle massage).</value>
+	</data>
+	<data name="Love_11" xml:space="preserve">
+		<value>Focus and reflect today on the implicit motives of your loved ones, rather their behaviors.</value>
+	</data>
+	<data name="Love_12" xml:space="preserve">
+		<value>Explore and appreciate the strengths of your loved ones.</value>
+	</data>
+	<data name="Love_13" xml:space="preserve">
+		<value>Plan a a date with your mate that celebrates both of your signature strengths.</value>
+	</data>
+	<data name="Love_14" xml:space="preserve">
+		<value>Express your love through gifts. If possible, create gift yourself.</value>
+	</data>
+	<data name="Love_15" xml:space="preserve">
+		<value>Think of the days of mutual relevance. Plan for one of such days.</value>
+	</data>
+	<data name="Love_16" xml:space="preserve">
+		<value>Express your love creatively (e.g., through a poem, notes, sketches, photographs of an important place, event or situation which reminds you of mutual love).</value>
+	</data>
+	<data name="Love_17" xml:space="preserve">
+		<value>Ask if your loved ones have need in help with their self-improvement. If so - propose your help.</value>
+	</data>
+	<data name="Love_18" xml:space="preserve">
+		<value>Plan and host a dinner party with your significant other.</value>
+	</data>
+	<data name="Love_19" xml:space="preserve">
+		<value>Reunite at the end of the day and discuss how it went.</value>
+	</data>
+	<data name="Love_2" xml:space="preserve">
+		<value>Plan to attend a concert, theatre, movies, or go dancing with your loved one.</value>
+	</data>
+	<data name="Love_3" xml:space="preserve">
+		<value>Plan to engage in a favorite activity (e.g., hiking, going to an amusement park, biking etc) together.</value>
+	</data>
+	<data name="Love_4" xml:space="preserve">
+		<value>Reflect on ways to empover your connection with loved one.</value>
+	</data>
+	<data name="Love_5" xml:space="preserve">
+		<value>Go out (without kids) for brunch or dinner to a new place.</value>
+	</data>
+	<data name="Love_6" xml:space="preserve">
+		<value>Ask if your loved one wants to reflect on/improve their signature strenghts, and how can you help them. </value>
+	</data>
+	<data name="Love_7" xml:space="preserve">
+		<value>Cheer up your loved ones unexpectedly throughout the day.</value>
+	</data>
+	<data name="Love_8" xml:space="preserve">
+		<value>Make a mixtape of favourite songs and share it with loved one.</value>
+	</data>
+	<data name="Love_9" xml:space="preserve">
+		<value>Make or update a family blessing journal in which everyone writes good things that happen to them daily.</value>
+	</data>
+	<data name="Perseverance" xml:space="preserve">
+		<value>Perseverance</value>
+	</data>
+	<data name="Perseverance_1" xml:space="preserve">
+		<value>Think of a current project of yours and check if you can make it before deadline.</value>
+	</data>
+	<data name="Perseverance_10" xml:space="preserve">
+		<value>Select two activities that you find engaging and meaningful and give uninterrupted time to them.</value>
+	</data>
+	<data name="Perseverance_11" xml:space="preserve">
+		<value>Set (or check on) five small goals for a week. Break them into practical steps and see them to completion.</value>
+	</data>
+	<data name="Perseverance_12" xml:space="preserve">
+		<value>Today work a bit more than usual at your most important goal.</value>
+	</data>
+	<data name="Perseverance_13" xml:space="preserve">
+		<value>Reflect on a role-model who exemplifies perseverance and determine how you can follow her/his footsteps.</value>
+	</data>
+	<data name="Perseverance_14" xml:space="preserve">
+		<value>Search for or remember an inspiring quotation or poem which motivates you to achieve your goals.</value>
+	</data>
+	<data name="Perseverance_15" xml:space="preserve">
+		<value>Think about the year-long project that you would love to see through.</value>
+	</data>
+	<data name="Perseverance_16" xml:space="preserve">
+		<value>Write your goals and aims and post them where you can see them regularly. If you have the list — check up on it and update.</value>
+	</data>
+	<data name="Perseverance_17" xml:space="preserve">
+		<value>Reflect on the times you didn't see the project till the end. Why is that?</value>
+	</data>
+	<data name="Perseverance_2" xml:space="preserve">
+		<value>Look on your surroudings and see if someone needs help in perceiving in their task. Propose them your support.</value>
+	</data>
+	<data name="Perseverance_3" xml:space="preserve">
+		<value>Check on your current goals and plan one specific action for each of those.</value>
+	</data>
+	<data name="Perseverance_4" xml:space="preserve">
+		<value>Go through the checklist of things to do and update if necessary.</value>
+	</data>
+	<data name="Perseverance_5" xml:space="preserve">
+		<value>Learn something new on the time management topic.</value>
+	</data>
+	<data name="Perseverance_6" xml:space="preserve">
+		<value>Think of ways to share your goals with loved ones.</value>
+	</data>
+	<data name="Perseverance_7" xml:space="preserve">
+		<value>Think about what you would like to accomplish in the next five years. Check if your current goals are in line with it.</value>
+	</data>
+	<data name="Perseverance_8" xml:space="preserve">
+		<value>Think of ways of motivating others to finish their tasks.</value>
+	</data>
+	<data name="Perseverance_9" xml:space="preserve">
+		<value>Think about ways of optimizing the tasks on your hands.</value>
+	</data>
+	<data name="Perspective" xml:space="preserve">
+		<value>Perspective</value>
+	</data>
+	<data name="Perspective_1" xml:space="preserve">
+		<value>Explain the broad outlook of your life in one or two sentences.</value>
+	</data>
+	<data name="Perspective_2" xml:space="preserve">
+		<value>Remeber or purpose in the last five of your significant actions/decisions.</value>
+	</data>
+	<data name="Perspective_3" xml:space="preserve">
+		<value>Find someone wise (alive or someone who has passed on), read or watch a film on their life, and identify how their life can guide your decisions and actions.</value>
+	</data>
+	<data name="Perspective_4" xml:space="preserve">
+		<value>Read two quotes of wisdom and re-write them in small practical action steps for yourself.</value>
+	</data>
+	<data name="Perspective_5" xml:space="preserve">
+		<value>Reflect on the moral implications and potential consequences of your today's actions.</value>
+	</data>
+	<data name="Perspective_6" xml:space="preserve">
+		<value>Reflect on the moral implications of scientific endeavors that directly affect your life.</value>
+	</data>
+	<data name="Perspective_7" xml:space="preserve">
+		<value>Examine a world event from historical, cultural and economic perspectives.</value>
+	</data>
+	<data name="Perspective_8" xml:space="preserve">
+		<value>Analyze, reflect, and synthesize on an issue about which you feel ambivalent.</value>
+	</data>
+	<data name="Perspective_9" xml:space="preserve">
+		<value>Reflect on connection of your emotions to beliefs today.</value>
+	</data>
+	<data name="Prudence" xml:space="preserve">
+		<value>Prudence</value>
+	</data>
+	<data name="Prudence_1" xml:space="preserve">
+		<value>Consciously think twice today before saying anything. </value>
+	</data>
+	<data name="Prudence_10" xml:space="preserve">
+		<value>Reflect on the activity you do frequently and ways of doing it more consciously.</value>
+	</data>
+	<data name="Prudence_11" xml:space="preserve">
+		<value>Search and remove if necessary distractions in your home or workplace.</value>
+	</data>
+	<data name="Prudence_2" xml:space="preserve">
+		<value>Think about people that you would want to consult before making big decisions.</value>
+	</data>
+	<data name="Prudence_3" xml:space="preserve">
+		<value>Visualize the consequences of your decisions today in long term: one to five years.</value>
+	</data>
+	<data name="Prudence_4" xml:space="preserve">
+		<value>Do a risk-benefit analysis of one decision lying before you.</value>
+	</data>
+	<data name="Prudence_5" xml:space="preserve">
+		<value>Reflect on the conditions when you are more comfortable to make decisions.</value>
+	</data>
+	<data name="Prudence_6" xml:space="preserve">
+		<value>Reflect on times you have told lies or cheated. How could you behave in different way? Why?</value>
+	</data>
+	<data name="Prudence_7" xml:space="preserve">
+		<value>Think or learn about ways of conversion win-loss situations into ones that benefit to all.</value>
+	</data>
+	<data name="Prudence_8" xml:space="preserve">
+		<value>Check you most current task — are all details there? Ask for any missing parts to ensure everything is in line.</value>
+	</data>
+	<data name="Prudence_9" xml:space="preserve">
+		<value>Reflect and write down methods of improvement of the last task or project you've done.</value>
+	</data>
+	<data name="Self-Regulation" xml:space="preserve">
+		<value>Self-Regulation</value>
+	</data>
+	<data name="Self-Regulation_1" xml:space="preserve">
+		<value>Make a 10-minute task to improve your life (e.g., room cleaning, laundry, doing dishes, cleaning your desk) and complete it.</value>
+	</data>
+	<data name="Self-Regulation_10" xml:space="preserve">
+		<value>Think how can you eliminate distractions for current tasks. Try to do that.</value>
+	</data>
+	<data name="Self-Regulation_11" xml:space="preserve">
+		<value>Elimitate at least one object of temptation.</value>
+	</data>
+	<data name="Self-Regulation_12" xml:space="preserve">
+		<value>Do a workout routine that you would like to stick with for a long time.</value>
+	</data>
+	<data name="Self-Regulation_13" xml:space="preserve">
+		<value>Reflect on the times you got upset. How can you try to better control emotions and focus on positives? </value>
+	</data>
+	<data name="Self-Regulation_2" xml:space="preserve">
+		<value>Make up a new rule for today (e.g. do not speak about others in their absence). Stick to that rule.</value>
+	</data>
+	<data name="Self-Regulation_3" xml:space="preserve">
+		<value>Try to do a progressive relaxation when you feel tense.</value>
+	</data>
+	<data name="Self-Regulation_4" xml:space="preserve">
+		<value>Note the times today when you've felt the need to indulge yourself but resisted.</value>
+	</data>
+	<data name="Self-Regulation_5" xml:space="preserve">
+		<value>Reflect on the routines you have now. Are you happy with those? Can you imrpove them?</value>
+	</data>
+	<data name="Self-Regulation_6" xml:space="preserve">
+		<value>Revise your timetable and see if you can optimize it.</value>
+	</data>
+	<data name="Self-Regulation_7" xml:space="preserve">
+		<value>Reflect on or identify your role models. What inspires you in those and how can you add it to your life?</value>
+	</data>
+	<data name="Self-Regulation_8" xml:space="preserve">
+		<value>Reflect on times where you were not able to finish task. What led to it? How cna you prevent that in future?</value>
+	</data>
+	<data name="Self-Regulation_9" xml:space="preserve">
+		<value>Think about the thing that brings comfort to you (TV, phone etc) and remove it for one day. Analyze your thoughts along the way.</value>
+	</data>
+	<data name="Social Intelligence" xml:space="preserve">
+		<value>Social Intelligence</value>
+	</data>
+	<data name="Social Intelligence_1" xml:space="preserve">
+		<value>Think of ways of winning the arguments without hurting other people's feelings.</value>
+	</data>
+	<data name="Social Intelligence_10" xml:space="preserve">
+		<value>Talk to someone close today and try to remove all judgement from your reflection. Analyze tyour thoughts.</value>
+	</data>
+	<data name="Social Intelligence_11" xml:space="preserve">
+		<value>Reflect on recent situation when someone offended you. Try to find at least one positive in this situation.</value>
+	</data>
+	<data name="Social Intelligence_12" xml:space="preserve">
+		<value>Think about social situation where you may be uncomfortable. How can you improve your state while being in it?</value>
+	</data>
+	<data name="Social Intelligence_13" xml:space="preserve">
+		<value>Note and appreciate at least one person in the light of their positive attributes.</value>
+	</data>
+	<data name="Social Intelligence_14" xml:space="preserve">
+		<value>Write five personal feelings today.</value>
+	</data>
+	<data name="Social Intelligence_15" xml:space="preserve">
+		<value>Watch a favorite TV program or film muted and write feelings observed.</value>
+	</data>
+	<data name="Social Intelligence_2" xml:space="preserve">
+		<value>Express feelings appropriately to someone you have not done so far.</value>
+	</data>
+	<data name="Social Intelligence_3" xml:space="preserve">
+		<value>Reflect on times you did not emotionally understand someone close to you. If possible, ask them if this had happened and can you do better next time.</value>
+	</data>
+	<data name="Social Intelligence_4" xml:space="preserve">
+		<value>For today conciously listen to others with unconditional regard.</value>
+	</data>
+	<data name="Social Intelligence_5" xml:space="preserve">
+		<value>Reflect on the time one of your friends or family members grew. Think on the way you can congratulate them with it — and, if possible, do that.</value>
+	</data>
+	<data name="Social Intelligence_6" xml:space="preserve">
+		<value>Identify which of your friends relates most emphatically with others. Reflect on how they do that.</value>
+	</data>
+	<data name="Social Intelligence_7" xml:space="preserve">
+		<value>Reflect on the improtance of social agreeableness and how it could improve your work or life recently.</value>
+	</data>
+	<data name="Social Intelligence_8" xml:space="preserve">
+		<value>Reflect on the time when you weren't able to speak directly about your needs. How can you prevent that in future?</value>
+	</data>
+	<data name="Social Intelligence_9" xml:space="preserve">
+		<value>Perceive and acknowledge three latest sincere gestures of a friend.</value>
+	</data>
+	<data name="Spirituality" xml:space="preserve">
+		<value>Spirituality</value>
+	</data>
+	<data name="Spirituality_1" xml:space="preserve">
+		<value>Spend some time in activity that connects you with a higher power or reminds you where you fit in the large scheme of things.</value>
+	</data>
+	<data name="Spirituality_10" xml:space="preserve">
+		<value>Spend ten minutes in breathing deeply, relaxing, and meditating (emptying the mind of thoughts by focusing on breathing).</value>
+	</data>
+	<data name="Spirituality_11" xml:space="preserve">
+		<value>Mindfully worship and/or pray for five to ten minutes.</value>
+	</data>
+	<data name="Spirituality_12" xml:space="preserve">
+		<value>Read a spiritual or religious book for half an hour.</value>
+	</data>
+	<data name="Spirituality_2" xml:space="preserve">
+		<value>Explore different religion in any way that fits you.</value>
+	</data>
+	<data name="Spirituality_3" xml:space="preserve">
+		<value>Note which of your today's actions may have spiritual significance.</value>
+	</data>
+	<data name="Spirituality_4" xml:space="preserve">
+		<value>Reflect on a fundamental purpose of your life and link today's actions to that purpose.</value>
+	</data>
+	<data name="Spirituality_5" xml:space="preserve">
+		<value>Reflect how your spiritual beliefs and practices connect you with others authentically.</value>
+	</data>
+	<data name="Spirituality_6" xml:space="preserve">
+		<value>Make a list of experiences that forge strong connections in your life.</value>
+	</data>
+	<data name="Spirituality_7" xml:space="preserve">
+		<value>Reflect on your possible eulogy: how do you want people to remember you? Did it change from previous time?</value>
+	</data>
+	<data name="Spirituality_8" xml:space="preserve">
+		<value>Think about ways how can you empathize and help solve problems of someone close to you.</value>
+	</data>
+	<data name="Spirituality_9" xml:space="preserve">
+		<value>Search for or connect with people and organization that enhances your signature strengths.</value>
+	</data>
+	<data name="Teamwork" xml:space="preserve">
+		<value>Teamwork</value>
+	</data>
+	<data name="Teamwork_1" xml:space="preserve">
+		<value>Pick up litter on curbsides and put it in trashcans.</value>
+	</data>
+	<data name="Teamwork_10" xml:space="preserve">
+		<value>Search for the volunteer opportunity in the area that resonates with you. If you alrady have one - think on how can you improve it's work.</value>
+	</data>
+	<data name="Teamwork_11" xml:space="preserve">
+		<value>Find a currently conflicting issue in your community. Plan for having the discussion on this issue.</value>
+	</data>
+	<data name="Teamwork_12" xml:space="preserve">
+		<value>Check up on the person that is close to you on how they achieve their goals and if you can help them.</value>
+	</data>
+	<data name="Teamwork_13" xml:space="preserve">
+		<value>Think of the questions that you can bring up or solve with you social gatherings if you don't have one — think on how you can do it.</value>
+	</data>
+	<data name="Teamwork_14" xml:space="preserve">
+		<value>Clean a communal place.</value>
+	</data>
+	<data name="Teamwork_15" xml:space="preserve">
+		<value>Decorate a communal place, even in a small way.</value>
+	</data>
+	<data name="Teamwork_16" xml:space="preserve">
+		<value>Think of a ways of helping your local sports team. If you did so — act on those plans.</value>
+	</data>
+	<data name="Teamwork_17" xml:space="preserve">
+		<value>Think of a club that you want to start. If you already have one — think on ways of improving it's work.</value>
+	</data>
+	<data name="Teamwork_18" xml:space="preserve">
+		<value>Car pool or give someone ride to work.</value>
+	</data>
+	<data name="Teamwork_19" xml:space="preserve">
+		<value>Start or improve a community garden.</value>
+	</data>
+	<data name="Teamwork_2" xml:space="preserve">
+		<value>Look for the possession that you can donate. Do it.</value>
+	</data>
+	<data name="Teamwork_3" xml:space="preserve">
+		<value>Seek a role in an organization or club that brings people of diverse cultures closer.</value>
+	</data>
+	<data name="Teamwork_4" xml:space="preserve">
+		<value>Look for opportunities to volunteer in remote cities or for organizations outside your area. Act on those.</value>
+	</data>
+	<data name="Teamwork_5" xml:space="preserve">
+		<value>Ask neighbours (directly or indirectly) if they need something in the community.</value>
+	</data>
+	<data name="Teamwork_6" xml:space="preserve">
+		<value>Read about the different volunteer opportunities in the world. Reflect on how you can put their practices into life.</value>
+	</data>
+	<data name="Teamwork_7" xml:space="preserve">
+		<value>Think of an ways of improving the life of your neighbours. Act on those.</value>
+	</data>
+	<data name="Teamwork_8" xml:space="preserve">
+		<value>Do a small nice act for the neighbours of yours.</value>
+	</data>
+	<data name="Teamwork_9" xml:space="preserve">
+		<value>Cook a favorite meal for your neighbor or a friend.</value>
+	</data>
+	<data name="Zest" xml:space="preserve">
+		<value>Zest</value>
+	</data>
+	<data name="Zest_1" xml:space="preserve">
+		<value>Do one of the today's tasks with more energy than usual some creative and different elements.</value>
+	</data>
+	<data name="Zest_10" xml:space="preserve">
+		<value>Think about ways of improving your excersise routine.</value>
+	</data>
+	<data name="Zest_11" xml:space="preserve">
+		<value>Do a physical activity of your choice, one that you don't have to do and that you are not told to do.</value>
+	</data>
+	<data name="Zest_12" xml:space="preserve">
+		<value>Reflect on ways how can you improve your sleep hygiene more.</value>
+	</data>
+	<data name="Zest_13" xml:space="preserve">
+		<value>Think of ways to make some today's assignment exciting and engaging for you before you undertake it.</value>
+	</data>
+	<data name="Zest_2" xml:space="preserve">
+		<value>Think about the physical activity that you would like to try. Plan for it.</value>
+	</data>
+	<data name="Zest_3" xml:space="preserve">
+		<value>Think of a creative activity (music, drawing etc) that you would like to do. Plan for it.</value>
+	</data>
+	<data name="Zest_4" xml:space="preserve">
+		<value>Seek out and plan to attend a dance club, concert, or a performing art event.</value>
+	</data>
+	<data name="Zest_5" xml:space="preserve">
+		<value>Watch a sitcom or a comedy film.</value>
+	</data>
+	<data name="Zest_6" xml:space="preserve">
+		<value>Think of a friend that would make you happy the most now. Try to communicate with them today.</value>
+	</data>
+	<data name="Zest_7" xml:space="preserve">
+		<value>Reflect on which activity brings you more energy in life and how you can add more of it.</value>
+	</data>
+	<data name="Zest_8" xml:space="preserve">
+		<value>Celebrate your most recent accomplishment or think how would you do that.</value>
+	</data>
+	<data name="Zest_9" xml:space="preserve">
+		<value>Reminiscence good old times, alone or with a friend.</value>
+	</data>
+</root>

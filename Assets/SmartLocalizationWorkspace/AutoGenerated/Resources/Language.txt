@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="Appreciation of Beauty and Excellence" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_17" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_18" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_19" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_20" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Appreciation of Beauty and Excellence_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_1" xml:space="preserve">
+		<value>				</value>
+	</data>
+	<data name="Bravery_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Bravery_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Creativity_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Curiosity_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Fairness, Equity and Justice_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Forgiveness_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Gratitude_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Honesty_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Hope_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humility / Modesty_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Humor_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_17" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Kindness_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Leadership_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love of learning_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_17" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_18" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_19" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Love_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Judgement_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_17" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perseverance_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Perspective_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Prudence_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Self-Regulation_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Social Intelligence_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Spirituality_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_14" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_15" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_16" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_17" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_18" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_19" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Teamwork_9" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_10" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_11" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_12" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_13" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_8" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Zest_9" xml:space="preserve">
+		<value />
+	</data>
+</root>

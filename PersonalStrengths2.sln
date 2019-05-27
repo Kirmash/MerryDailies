@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalStrengths2", "PersonalStrengths2.csproj", "{409BCD37-2FC2-8A18-40F7-45D69B126A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalStrengths2.Editor", "PersonalStrengths2.Editor.csproj", "{277266E1-B47A-06A2-D0AF-072D2AFE1AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409BCD37-2FC2-8A18-40F7-45D69B126A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409BCD37-2FC2-8A18-40F7-45D69B126A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409BCD37-2FC2-8A18-40F7-45D69B126A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409BCD37-2FC2-8A18-40F7-45D69B126A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277266E1-B47A-06A2-D0AF-072D2AFE1AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277266E1-B47A-06A2-D0AF-072D2AFE1AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277266E1-B47A-06A2-D0AF-072D2AFE1AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277266E1-B47A-06A2-D0AF-072D2AFE1AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
